@@ -7,7 +7,7 @@ public class MainTask1 {
         String name;
         name = args [0];
 
-        System.out.println("Здраствуйте " + name + "!");
+        System.out.println("Hello " + name + "!");
     }
 
 }
